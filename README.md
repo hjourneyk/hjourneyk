@@ -1,62 +1,80 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Journey%20Kim&fontSize=70&fontAlignY=40&desc=Architecture-based%20UX%20Designer&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Journey%20✨&fontSize=80&fontAlignY=35&animation=twinkling)
 
 <div align="center">
 
-## About Me
+### Hi! I'm Journey (Hajung) 👋
 
-Architecture-based UX designer who designs from the user's perspective.  
-Love learning and expanding my skills into UI/UX and web development.
+*Architecture-based UX designer who designs from the user's perspective*
 
-🎓 BCIT New Media Design & Web Development '26  
-🎨 2+ years creating visual content and 3D assets  
-🎮 Passionate gamer, Love Games!
+🎓 BCIT '26 · 🎨 Visual Designer · 🎮 Gamer · 💡 Always Learning
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,wordpress" />
-</p>
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-![Hajung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjourneyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## ✨ What I Do
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjourneyk&layout=compact&theme=tokyonight&hide_border=true)
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,xd" />
+
+**Code**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
 
 </div>
+
+<br/>
 
 ---
 
-## 💬 Connect
+<br/>
 
 <div align="center">
 
-🌐 [hajungkim.com](https://hajungkim.com)  
-🎨 [Behance](https://www.behance.net/journeyk)  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)
+## 📊 GitHub Activity
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hjourneyk&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hjourneyk&theme=dracula&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae" />
 
 </div>
+
+<br/>
 
 ---
 
+<br/>
+
 <div align="center">
 
-*Designing experiences that blend art, technology, and storytelling*
+## 🌈 Let's Connect!
 
-![Profile Views](https://komarev.com/ghpvc/?username=hjourneyk&color=blueviolet)
+<a href="https://hajungkim.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://www.behance.net/journeyk">
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+*✨ Designing experiences that blend art, technology, and storytelling ✨*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hjourneyk&style=for-the-badge&color=blueviolet" />
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
