@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Journey%20✨&fontSize=80&fontAlignY=35&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,27&height=200&section=header&text=Journey%20✨&fontSize=80&fontAlignY=35&animation=twinkling)
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 **Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,xd" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender" />
 
 **Code**
 <br/>
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-## 🌈 Let's Connect!
+##  💌 Let's Connect!
 
 <a href="https://hajungkim.com">
   <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=About.me&logoColor=white" />
