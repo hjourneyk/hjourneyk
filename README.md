@@ -10,7 +10,7 @@ Visual designer with a background in architecture and 2+ years creating 3D conte
 ## What I Do
 
 **Design** → Figma, Adobe CC, Cinema4D, Blender  
-**Code** → HTML, CSS, JavaScript, React  
+**Code** → HTML, CSS, JavaScript, React
 **Build** → Responsive websites, 3D visualizations, interactive experiences
 
 ---
@@ -24,8 +24,7 @@ Visual designer with a background in architecture and 2+ years creating 3D conte
 ---
 
 ## Connect
-
-📧 journeykim96@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/your-profile-url)
 🌐 [hajungkim.com](https://hajungkim.com)  
 🎨 [Behance](https://www.behance.net/journeyk)
 
