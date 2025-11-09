@@ -1,33 +1,62 @@
-# Hi, I'm Hajung 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Journey%20Kim&fontSize=70&fontAlignY=40&desc=Architecture-based%20UX%20Designer&descAlignY=55)
 
-New Media Design & Web Development student at BCIT, graduating April 2026.  
-Visual designer with a background in architecture and 2+ years creating 3D content.
+<div align="center">
 
-🎮 Passionate gamer | 🎨 Visual storyteller | 💼 Seeking co-op Jan 2026
+## About Me
 
----
+Architecture-based UX designer who designs from the user's perspective.  
+Love learning and expanding my skills into UI/UX and web development.
 
-## What I Do
+🎓 BCIT New Media Design & Web Development '26  
+🎨 2+ years creating visual content and 3D assets  
+🎮 Passionate gamer, Love Games!
 
-**Design** → Figma, Adobe CC, Cinema4D, Blender  
-**Code** → HTML, CSS, JavaScript, React
-**Build** → Responsive websites, 3D visualizations, interactive experiences
-
----
-
-## Currently
-
-- 📚 Learning React.js and advanced UX design
-- 🔍 Looking for co-op opportunities starting January 2026
-- 🎯 Building projects that blend design and development
+</div>
 
 ---
 
-## Connect
-💼 [LinkedIn](https://linkedin.com/in/your-profile-url)
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,wordpress" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Hajung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjourneyk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjourneyk&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💬 Connect
+
+<div align="center">
+
 🌐 [hajungkim.com](https://hajungkim.com)  
-🎨 [Behance](https://www.behance.net/journeyk)
+🎨 [Behance](https://www.behance.net/journeyk)  
+💼 [LinkedIn](https://linkedin.com/in/your-profile)
+
+</div>
 
 ---
+
+<div align="center">
 
 *Designing experiences that blend art, technology, and storytelling*
+
+![Profile Views](https://komarev.com/ghpvc/?username=hjourneyk&color=blueviolet)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
